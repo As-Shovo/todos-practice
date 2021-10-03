@@ -1,0 +1,21 @@
+.navbar-menu a {
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: rgb(26, 26, 26);
+    margin-left: 10px;
+    padding: 5px 10px;
+}
+
+.navbar-menu a:hover{
+    background-color: royalblue;
+    border-radius: 5px;
+}
+
+.logo{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}

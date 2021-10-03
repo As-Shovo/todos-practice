@@ -1,0 +1,17 @@
+.home-hero{
+    background-image: url(https://cdn.pixabay.com/photo/2021/08/14/01/58/museum-6544420_960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.hero-info {
+    color: aliceblue;
+    margin: 50px;
+    padding: 50px;
+}
+
+.hero-info p{
+    font-size: 2rem;
+}
